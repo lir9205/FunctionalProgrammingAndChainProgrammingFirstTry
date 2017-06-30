@@ -1,0 +1,2 @@
+# FunctionalProgrammingAndChainProgrammingFirstTry
+理解函数式编程和链式编程
